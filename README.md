@@ -1,2 +1,2 @@
 # MarkdownPictures
-Pictures are used in Markdown
+Pictures are used in my Blog
